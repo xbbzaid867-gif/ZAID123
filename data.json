@@ -1,4 +1,13 @@
 {
   "name": "My Source",
-  "downloads": []
+  "downloads": [
+    {
+      "title": "GTA V",
+      "uris": [
+        "https://example.com/gtav.torrent"
+      ],
+      "fileSize": "90 GB",
+      "uploadDate": "2026-10-20T00:00:00.000Z"
+    }
+  ]
 }
